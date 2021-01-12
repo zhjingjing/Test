@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--进度条进度的颜色-->
+    <color name="zzy_emm_progress_bar_progress">@color/zzy_emm_common_color_c52</color>
+    <!-- 按钮默认颜色 -->
+    <color name="zzy_emm_common_color_c52">#fffdbe32</color>
+</resources>
